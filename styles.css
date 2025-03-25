@@ -1,2 +1,21 @@
 
 /* Your CSS Code here. */
+p.moviePic{
+	background-image: url("https://i.pinimg.com/736x/e1/a0/69/e1a0695a23b1c416a38c1d5ea11de97e.jpg");
+	width: 450px;
+	height: 300px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	opacity: .7;
+}
+.movieDetail{
+	background-position: top;
+	width: 80%;
+	text-align: center;
+	font-size: 20px;
+	color: #ffffff;
+}
+
+
+
+
